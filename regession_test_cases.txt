@@ -1,0 +1,70 @@
+Regesstion Test cases
+
+TC-1: Headers links should be working correctly
+    1. go to the URL, able to open application
+    2. able to navigate page,verify all headers loaded.
+    3. verify all items are displayed properly.
+
+
+TC-2: TC_2: Company logo image link should be working properly
+    1. go to the URL, able to open application
+    2. able to navigate page,verify all headers loaded.
+    3. verify all items are displayed properly.
+    4. click logo verify page are refeshing.
+
+
+TC_3: "Home" link should take the user to homepage when clicked
+    1. go to the URL, able to open application
+    2. able to navigate page,verify all headers loaded.
+    3. verify all items are displayed properly.
+    4. click home link verify homepage are refeshing.
+
+
+TC_4: Contact link should open a popup window
+    1. click contact link
+    2. pop up window should open
+    3. you should able to fill out field
+    4. you should able to write brief massage
+    5. should able to click "send massage" button
+
+TC_5: About Us link should open a popup window with a video
+    1. click about us link
+    2. pop up window should open
+    3. you should able to see short video
+    5. should able to click "close" button to close the window
+
+TC_6: Cart link should open a separate cart page
+    1. go to webpage
+    2. able to added item to in your shopping cart
+    3. go to your cart check item is there
+    4. click it place order button
+    5. fill out order form
+    6. click it purchase button
+    7. verify your place order with "thank you" window displayed.
+
+TC_7: Log in button should open a popup window to log into the system
+    1. go to website
+    2. click login in button
+    3. should open popup login in window
+    4. enter valid name 
+    3. enter email , password
+    5. verify you are successfully login 
+
+TC_8: Sign up button should open a popup window to sign into the system
+    1. go to website
+    2. click login in button
+    3. should open popup sign in window
+    4. enter valid name 
+    3. enter email , password
+    5. verify you are successfully sign in with popup sign in sign. 
+
+TC_9: Carousel images should be changed automatically every 3 second
+	1. go to https://www.demoblaze.com
+    2. verify that the carsouel image is changed automatically every 3 sconds 
+
+TC_10: Left and right arrow buttons should change the carousel images accordingly
+     1. go to https://www.demoblaze.com
+    2. click the rigth arrow button
+    3. verify that the carsouel imaged is switched to the right one
+    4. click the left arrow button
+    5. verify that the carsouel imaged is switched back to previous one. 
