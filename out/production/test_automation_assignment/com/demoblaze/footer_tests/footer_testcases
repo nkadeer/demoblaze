@@ -1,0 +1,19 @@
+Test scenario: Footer
+
+TC_1
+Test case: Footer section is displayed on all different pages
+Test steps:
+1. Go to AUT
+2. Verify that Footer section is present
+3. Click on any one product
+4. Check if you are on product page
+5. Verify the Footer section is displayed there as well
+
+TC_2
+Test case: Footer section content is present
+Test steps:
+1. Go to AUT
+2. Stay on home page
+3. Check if the footer section content exists
+4. Click on any one product
+5. Check footer content also exists on product page

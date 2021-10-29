@@ -1,0 +1,28 @@
+TC1 As a new user , user should be able to open the application
+    1. go to the URL, able to open application
+    2. able to navigate page,verify all headers loaded.
+    3. verify all items are displayed properly.
+
+TC2 as a user , able to sign up
+    1. go to website
+    2. enter valid name
+    3. enter email , password
+    4. click login up button
+    5. verify you are successfully sign up
+
+TC3 as a user able to login in your account
+    1. go to website
+    2. enter valid name
+    3. enter email , password
+    4. click sign up button
+    5. verify you are successfully login in to your account
+
+TC4 Navigate application , able to purchase items
+    1. go to webpage
+    2. able to added item to in your shopping cart
+    3. go to your cart check item is there
+    4. click it place order button
+    5. fill out order form
+    6. click it purchase button
+    7. verify your place order with "thank you" window displayed.
+

@@ -1,0 +1,19 @@
+
+Test scenario: About us
+
+TC_1
+Test case: About us link displays video modal window
+Test steps:
+1. Go to AUT
+2. Click About us link
+3. Verify that a popup window is displayed with a video
+4. And user should be able to play the video
+5. Then click the close button on the modal window
+6. Verify that the modal window is closed
+
+
+
+
+
+
+

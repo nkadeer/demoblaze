@@ -1,0 +1,40 @@
+Test Scenario-  check Calculator functionality
+test case 1- check Calculator response with valid inputs
+test steps-
+1. navigate to https://testsheepnz.github.io/BasicCalculator.html
+2. enter valid data in "first number" field
+3. enter valid data in "second number" field
+4. select operation type  addition from dropdown
+5. click on "Calculate" button
+6. verify result
+
+test case 2- check Calculator response with invalid inputs
+1. navigate to https://testsheepnz.github.io/BasicCalculator.html
+2. enter valid data in "first number" field
+3. enter valid data in "second number" field
+4. select operation type Subtraction from dropdown
+5. click on "Calculate" button
+6. verify result
+
+test case 3- check Calculator response with invalid inputs
+1. navigate to https://testsheepnz.github.io/BasicCalculator.html
+2. enter valid data in "first number" field
+3. enter valid data in "second number" field
+4. select operation type Division from dropdown
+5. click on "Calculate" button
+6. verify result
+
+test case 4- check Calculator response with invalid inputs
+1. navigate to https://testsheepnz.github.io/BasicCalculator.html
+2. enter valid data in "first number" field
+3. enter valid data in "second number" field
+4. select operation type multiplication from dropdown
+5. click on "Calculate" button
+6. verify result
+
+test case 5- check Calculator response with invalid inputs
+1. navigate to https://testsheepnz.github.io/BasicCalculator.html
+2. enter valid data in "first number" field
+3. enter valid data in "second number" field
+4. select operation type Concatenate from dropdown
+

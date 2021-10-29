@@ -1,0 +1,17 @@
+
+TC_1
+Test case: Carousel images slide every 5 seconds
+Test steps:
+1. Go to AUT
+2. Stay on homepage
+3. Verify the hero section carousel images need to change every 5 second
+
+TC_2
+Test case: User changes carousel images with left and right arrows
+Test steps:
+1. Go to AUT
+2. Stay on homepage
+3. Click on right arrow on the carousel in hero section
+4. Verify the image is changed
+5. Click on the left arrow key
+6. Verify the image is changed again to the previous one

@@ -1,0 +1,45 @@
+Test scenario: Shopping cart
+
+TC_1
+Test case: Shopping cart loads successfully
+Test steps:
+1. Go to AUT
+2. Click the Cart link on the header
+3. Verify that the shopping cart page is displayed
+
+TC_2
+Test case: Shopping cart page has 4 columns: Pic, Title, Price, x
+Test steps:
+1. Go to AUT
+2. Navigate to shopping cart page
+3. Verify that the page has all necessary columns
+
+Test scenario: Shopping cart
+
+TC_1
+Test case: Add item to shopping cart
+Test steps:
+1. Go to AUT
+2. Add an item to shopping cart
+3. Go to Cart
+4. Verify the item you added is added in the cart
+
+TC_2
+Test case: Remove item from cart
+Test steps:
+1. Go to AUT
+2. Add an item to shopping cart
+3. Go to Cart
+4. Remove the item you added from the cart
+5. Verify the cart is empty
+
+TC_3
+Test case: Place order
+Test steps:
+1. Go to AUT
+2. Add an item to shopping cart
+3. Go to Cart
+4. Click Place Order button
+5. Fill out the form
+6. Click the Purchase button
+7. Verify the order is placed successfully

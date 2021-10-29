@@ -1,0 +1,27 @@
+s (22 sloc)  692 Bytes
+
+Test scenario: Signup
+
+TC_1
+Test case: user is able to create account successfully
+Test steps:
+1. Go to AUT
+2. Go to signup modal window
+3. Enter username and password
+4. Verify the account is created and logged in
+
+TC_2
+Test case: sign up with empty username and password
+Test steps:
+1. Go to AUT
+2. Go to signup modal window
+3. Do not enter anything into username and password
+4. Verify that system displays a message "Please fill out Username and Password.".
+
+TC_3
+Test case: sign up with an existing account
+Test steps:
+1. Go to AUT
+2. Go to signup modal window
+3. Create an account that already exists in the system
+4. Verify that system displays a message as "This user already exist.".

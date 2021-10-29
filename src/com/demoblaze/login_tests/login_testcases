@@ -1,0 +1,100 @@
+Regression Test Cases
+
+TC_1
+Test case: App load
+Test steps:
+1. Go to AUT
+2. verify that AUT is loaded properly
+
+TC_2
+Test case: header links should be displayed
+Test steps:
+1. Go to AUT
+2. Verify that the header links are displayed for the user
+
+TC_3
+Test case: Login popup display
+Test steps:
+1. Go to AUT
+2. Click Login button
+3. verify that a login popup is displayed
+
+TC_4
+Test case: login popup window disappears
+Test steps:
+1. Go to AUT
+2. Click Login button
+3. Verify the login modal window is displayed
+4. Click on a random place outside the modal window
+5. Verify that the login window disappears
+
+
+TC_5
+Test case: Signup popup display
+Test steps:
+1. Go to AUT
+2. Click Signup button
+3. verify that a signup popup is displayed
+
+
+TC_6
+Test case: signup popup window disappears
+Test steps:
+1. Go to AUT
+2. Click Signup button
+3. Verify the signup modal window is displayed
+4. Click on a random place outside the modal window
+5. Verify that the signup window disappears
+
+TC_7
+Test case: Login modal window close button
+Test steps:
+1. Go to AUT
+2. Click Login button
+3. Then click the Close button the modal window
+4. verify that the login modal window is closed
+
+TC_8
+Test case: Signup modal window close button
+Test steps:
+1. Go to AUT
+2. Click Signup button
+3. Then click the Close button the modal window
+4. verify that the signup modal window is closed
+
+Test scenario: Login
+
+TC_9
+Test case: Login with valid credentials
+Test steps:
+1. Go to AUT
+2. Go to login modal window
+3. Login with valid username and password
+4. Verify that the user is logged in successfully
+
+
+TC_10
+Test case: Login with invalid credentials
+Test steps:
+1. Go to AUT
+2. Go to login modal window
+3. Login with invalid username and password
+4. Verify the system doesn't login
+
+
+
+TC_11
+Test case: Login with correct username but incorrect password
+Test steps:
+1. Go to AUT
+2. Go to login modal window
+3. Login with valid username and invalid password
+4. Verify the system doesn't login
+
+
+TC_12
+Test case: Login with incorrect username but correct password
+Test steps:
+1. Go to AUT
+2. Go to login modal window
+3. Login with valid username and valid password

@@ -1,0 +1,31 @@
+Test scenario: Categories
+
+TC_1
+Test case: Categories group is on homepage
+Test steps:
+1. Go to AUT
+2. Categories group should be displayed
+3. Verify there are 3 categories: Phones, Laptops, Monitors
+
+TC_2
+Test case: Phones category
+1. Go to AUT
+2. Stay on home page
+3. filter products by Phones category
+4. Verify that only phone products are displayed
+
+
+TC_3
+Test case: Phones category
+1. Go to AUT
+2. Stay on home page
+3. filter products by Laptops category
+4. Verify that only laptop products are displayed
+
+
+TC_4
+Test case: Monitors category
+1. Go to AUT
+2. Stay on home page
+3. filter products by Monitors category
+4. Verify that only monitors products are displayed

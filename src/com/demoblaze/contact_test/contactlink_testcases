@@ -1,0 +1,26 @@
+TC_1
+Test case: Contact link displays popup window
+Test steps:
+1. Go to AUT
+2. Click the Contact link
+3. Verify that a popup window is displayed
+4. And There should be 3 text fields: contact email, contact name, message
+
+
+TC_2
+Test case: Sending a message via Contact
+Test steps:
+1. Go to AUT
+2. Click the Contact link
+3. Fill out the form
+4. Send the message
+5. Verify that system displays success message
+
+TC_3
+Test case: Sending an empty Contact message
+Test steps:
+1. Go to AUT
+2. Click the Contact link
+3. Do not fill out the form
+4. Send the message
+5. Verify that system should display error message
